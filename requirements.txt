@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+ipython
+jupyter
+pandas
+sympy
+nose
+# Reveal.js - Jupyter/IPython Slideshow Extension
+RISE
+
